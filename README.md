@@ -1,2 +1,2 @@
 # Luna-lights
-repo for SSPR project
+repo for CS project
